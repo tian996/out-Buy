@@ -1,5 +1,24 @@
-# Welcome to GitHub Desktop!
+<<<<<<< HEAD
+# outBuy
+成都微趣云
+=======
+# sys
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## Project setup
+```
+npm install
+```
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+>>>>>>> d70d03a... 配置环境
